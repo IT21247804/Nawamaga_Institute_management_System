@@ -15,5 +15,5 @@
 #### Brief Description of Project - Online Institute management system for Nawamaga Institute in monaragala. The project is inside the Nawamaga Folder in main branch.
 #### Technologies used - MERN Stack
 
-Note - The student's github account should be given in brackets e.g. (asiriRepos), this ideally should be your student id 
+
 
